@@ -4,6 +4,7 @@
  const http = require('http');
  const url = require('url');
  const  replaceTemplate = require('./module/replaceTemplate.js');
+const  slugify = require('slugify');
 
  /////////////////////////////////////////////////////////////////////
  //block way 

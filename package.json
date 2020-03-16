@@ -1,0 +1,25 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M0stafaKhaled/farm_project.git"
+  },
+  "author": "mostafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M0stafaKhaled/farm_project/issues"
+  },
+  "homepage": "https://github.com/M0stafaKhaled/farm_project#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
